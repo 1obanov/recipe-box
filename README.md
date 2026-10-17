@@ -1,10 +1,10 @@
-# Recipe App
+# RecipeBox
 
 > The Recipe App is a dynamic React-based application that showcases the usage of React Router for seamless navigation between different pages. The app provides a delightful experience for users to explore various recipes, categories, and more.
 
 ### Preview
 
-Explore the live demo of the **Recipe App** [here](https://1obanov.github.io/recipe-app/#/).
+Explore the live demo of the **RecipeBox** [here](https://1obanov.github.io/recipe-box/#/).
 
 ### Features
 
@@ -33,10 +33,10 @@ Explore the live demo of the **Recipe App** [here](https://1obanov.github.io/rec
 
 ```
 # Clone the repository
-git clone https://github.com/your-username/recipe-app.git
+git clone https://github.com/your-username/recipe-box.git
 
 # Navigate to the project directory
-cd recipe-app
+cd recipe-box
 
 # Install dependencies
 npm install
